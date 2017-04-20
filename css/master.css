@@ -144,7 +144,8 @@ div.tab button {
 
 /* Change background color of buttons on hover */
 div.tab button:hover {
-    background-color: #ddd;
+    background-color: #ed6143;
+    
 }
 
 /* Create an active/current tablink class */
