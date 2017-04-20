@@ -1,0 +1,25 @@
+.background-fill {
+  background-color: #ed5a39;
+}
+
+.smaller-text {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.smallest-text {
+  font-size: 12px;
+  color: brown;
+}
+
+.white-text {
+  color: white;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+footer {
+  font-size: 10px;
+}
