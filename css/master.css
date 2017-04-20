@@ -16,10 +16,66 @@
   color: white;
 }
 
+.button {
+  background-color: white;
+  color: #ed5e3f;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.padding30 {
+  padding: 30px;
+}
+
+.paddingleft20 {
+  padding-left: 20px;
+}
+
+.center {
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.logo {
+  width: 40px;
+}
+
+.text-decoration-on {
+  text-decoration: underline;
+  color: #943a27;
+}
+
 body {
   font-family: sans-serif;
 }
 
 footer {
   font-size: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+hr {
+  border-top: 2px dashed white;
+  border-bottom: none;
+}
+
+h1 {
+  color: white;
+}
+
+h3 {
+  color: #ed6143;
+}
+
+h4 {
+  color: #f2a09f;
+}
+
+h5 {
+  color: #943a27;
 }
