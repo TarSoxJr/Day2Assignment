@@ -57,6 +57,7 @@
 .footer-link {
   color: #4c3328;
   text-decoration: underline;
+  font-size: 14px;
 }
 
 .button {
@@ -135,17 +136,17 @@ div.tab {
 div.tab button {
     background-color: inherit;
     float: left;
-    border: none;
     outline: none;
+    border: none;
     cursor: pointer;
-    padding: 14px 16px;
+    padding: 12px 14px;
     transition: 0.3s;
+    border-bottom: solid 2px white;
 }
 
 /* Change background color of buttons on hover */
 div.tab button:hover {
-    background-color: #ed6143;
-    
+    border-bottom: solid 2px #ed6143;
 }
 
 /* Create an active/current tablink class */
